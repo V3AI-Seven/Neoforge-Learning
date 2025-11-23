@@ -2,5 +2,6 @@
   "item.learningmod.bismuth": "Bismuth",
   "item.learningmod.raw_bismuth": "Raw Bismuth",
 
-  "block.learningmod.bismuth_block": "Block of Bismuth"
+  "block.learningmod.bismuth_block": "Block of Bismuth",
+  "block.learningmod.bismuth_ore": "Bismuth Ore"
 }
