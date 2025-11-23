@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "learningmod:bismuth_block",
+    "learningmod:bismuth_ore",
+    "learningmod:bismuth_deepslate_ore"
+  ]
+}
