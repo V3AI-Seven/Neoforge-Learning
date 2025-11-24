@@ -3,9 +3,15 @@
   "item.learningmod.raw_bismuth": "Raw Bismuth",
   "item.learningmod.chisel": "Chisel",
 
+  "item.learningmod.radish": "Radish",
+
+  "item.learningmod.frostfire_ice": "Frostfire Ice",
+  "item.learningmod.starlight_ashes": "Starlight Ashes",
+
   "block.learningmod.bismuth_block": "Block of Bismuth",
   "block.learningmod.bismuth_ore": "Bismuth Ore",
   "block.learningmod.bismuth_deepslate_ore": "Deepslate Bismuth Ore",
+
   "block.learningmod.magic_block": "Magic Block",
 
   "creativetab.learningmod.bismuth_items": "Bismuth Items",
