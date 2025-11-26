@@ -1,0 +1,3 @@
+// 1.21.1	2025-11-25T20:13:53.3259815	Tags for minecraft:block mod id learningmod
+9f1c2c3e5eb83e32ca1dc996c6e7e35a38f2d1eb data/minecraft/tags/block/mineable/pickaxe.json
+ef118701f0fd47998fe3153e1e1a6b93a244cbb3 data/minecraft/tags/block/needs_iron_tool.json
