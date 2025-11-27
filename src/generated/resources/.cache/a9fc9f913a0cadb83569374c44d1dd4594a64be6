@@ -1,3 +1,6 @@
-// 1.21.1	2025-11-25T20:13:53.3259815	Tags for minecraft:block mod id learningmod
-9f1c2c3e5eb83e32ca1dc996c6e7e35a38f2d1eb data/minecraft/tags/block/mineable/pickaxe.json
+// 1.21.1	2025-11-27T18:49:13.5724139	Tags for minecraft:block mod id learningmod
+5db84519d3910c57b58b0f91f326963db830ba88 data/minecraft/tags/block/fences.json
+2bf03fb13dcc93eaa30292464d919c2939bfc254 data/minecraft/tags/block/fence_gates.json
+8be339403d5fe43b251fa07cd4fd0527a2cd54d7 data/minecraft/tags/block/mineable/pickaxe.json
 ef118701f0fd47998fe3153e1e1a6b93a244cbb3 data/minecraft/tags/block/needs_iron_tool.json
+88005d801b83782130b24944b1eeed7cc89dce25 data/minecraft/tags/block/walls.json

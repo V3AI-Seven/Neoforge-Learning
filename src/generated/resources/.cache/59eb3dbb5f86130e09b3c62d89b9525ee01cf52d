@@ -1,5 +1,14 @@
-// 1.21.1	2025-11-25T20:13:53.322854	Loot Tables
+// 1.21.1	2025-11-27T18:43:27.4252821	Loot Tables
 5fddadff67607665e208a0b3633b7461641c8540 data/learningmod/loot_table/blocks/bismuth_block.json
+6da6936f683b5549108ffcc7995125d3c18a8544 data/learningmod/loot_table/blocks/bismuth_button.json
 c751e7f4561bef87d850a921f8df9a05ecff039f data/learningmod/loot_table/blocks/bismuth_deepslate_ore.json
+916e79460c3e30c0679f46959aaae790ec801dca data/learningmod/loot_table/blocks/bismuth_door.json
+e85929c51722eda0f5708e6b0714fa79918cb720 data/learningmod/loot_table/blocks/bismuth_fence.json
+4b750e5fbcc4247c6597921ba3c741e679a342bf data/learningmod/loot_table/blocks/bismuth_fence_gate.json
 cb1604ac805d3f7eba967394a96f6ba3c851de5c data/learningmod/loot_table/blocks/bismuth_ore.json
+4465ae390a865358a3ba9f7d3d75802dd73e9c8e data/learningmod/loot_table/blocks/bismuth_pressure_plate.json
+8c0c147ece3a332b7dbe0a4cafd724d17e82c06b data/learningmod/loot_table/blocks/bismuth_slab.json
+cb1e1efdcf13057c8c65ecaa76357d5c379eb166 data/learningmod/loot_table/blocks/bismuth_stairs.json
+2bcfffa754b536e4e0cf6f5902a98a69336db3c0 data/learningmod/loot_table/blocks/bismuth_trapdoor.json
+308eb51f14287b739d640e76d41389d49202b2e7 data/learningmod/loot_table/blocks/bismuth_wall.json
 645a867215b086712b7e6445b9da2d4bd61c5b70 data/learningmod/loot_table/blocks/magic_block.json

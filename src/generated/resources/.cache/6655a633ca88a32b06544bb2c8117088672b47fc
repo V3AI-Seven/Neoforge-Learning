@@ -1,5 +1,9 @@
-// 1.21.1	2025-11-25T20:13:53.3291184	Item Models: learningmod
+// 1.21.1	2025-11-27T18:43:27.4408557	Item Models: learningmod
 0bc2d35f479a80442e44011cf9cb78f4052c90f7 assets/learningmod/models/item/bismuth.json
+c24d9a21b140aa3fe169856446e7fdbdefab9c10 assets/learningmod/models/item/bismuth_button.json
+24027a14a8a3adee46bf7ea1470c0d99ab5e26a9 assets/learningmod/models/item/bismuth_door.json
+a63b3766ec1a1bc0ed072a090b9cc7d165f804a4 assets/learningmod/models/item/bismuth_fence.json
+ac982d502e1b56d78258c5707071e291d483692c assets/learningmod/models/item/bismuth_wall.json
 8be867a03b126b6b6d38f847d04172adb579d27d assets/learningmod/models/item/chisel.json
 7b7f6c5bf49a0e6311b033d15429b83abb6995b2 assets/learningmod/models/item/frostfire_ice.json
 de5a177dd81b0004ad9e1bd6c61050529969f1a3 assets/learningmod/models/item/radish.json

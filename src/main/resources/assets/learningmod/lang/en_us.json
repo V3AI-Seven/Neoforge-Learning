@@ -13,6 +13,19 @@
   "block.learningmod.bismuth_ore": "Bismuth Ore",
   "block.learningmod.bismuth_deepslate_ore": "Deepslate Bismuth Ore",
 
+  "block.learningmod.bismuth_stairs": "Bismuth Stairs",
+  "block.learningmod.bismuth_slab":  "Bismuth Slab",
+
+  "block.learningmod.bismuth_button" : "Bismuth Button",
+  "block.learningmod.bismuth_pressure_plate":  "Bismuth Pressure Plate",
+
+  "block.learningmod.bismuth_fence": "Bismuth Fence",
+  "block.learningmod.bismuth_fence_gate": "Bismuth Fence Gate",
+  "block.learningmod.bismuth_wall": "Bismuth Wall",
+
+  "block.learningmod.bismuth_door":  "Bismuth Door",
+  "block.learningmod.bismuth_trapdoor": "Bismuth Trapdoor",
+
   "block.learningmod.magic_block": "Magic Block",
 
   "creativetab.learningmod.bismuth_items": "Bismuth Items",

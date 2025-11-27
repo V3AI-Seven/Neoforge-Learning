@@ -3,6 +3,14 @@
     "learningmod:bismuth_block",
     "learningmod:bismuth_ore",
     "learningmod:bismuth_deepslate_ore",
-    "learningmod:magic_block"
+    "learningmod:magic_block",
+    "learningmod:bismuth_fence",
+    "learningmod:bismuth_fence_gate",
+    "learningmod:bismuth_door",
+    "learningmod:bismuth_slab",
+    "learningmod:bismuth_trapdoor",
+    "learningmod:bismuth_pressure_plate",
+    "learningmod:bismuth_button",
+    "learningmod:bismuth_wall"
   ]
 }
