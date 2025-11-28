@@ -6,8 +6,10 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.*;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.block.state.properties.BlockSetType;
+import net.minecraft.world.level.block.state.properties.BlockStateProperties;
 import net.minecraft.world.level.block.state.properties.WoodType;
 import net.mrseven.learningmod.LearningMod;
+import net.mrseven.learningmod.block.custom.BismuthLampBlock;
 import net.mrseven.learningmod.block.custom.MagicBlock;
 import net.mrseven.learningmod.item.ModItems;
 import net.neoforged.bus.api.IEventBus;
@@ -72,6 +74,12 @@ public class ModBlocks {
             () -> new TrapDoorBlock(BlockSetType.IRON,
             BlockBehaviour.Properties.of()
                     .strength(2f).requiresCorrectToolForDrops().noOcclusion()));
+
+    public static final DeferredBlock<Block> BISMUTH_LAMP = registerBlock("bismuth_lamp",
+            () -> new BismuthLampBlock(BlockBehaviour.Properties.of()
+                    .strength(2f)
+                    .requiresCorrectToolForDrops()
+                    .lightLevel(state -> state.getValue(BismuthLampBlock.CLICKED) ? 15 : 0))); // if clicked is true, light level is 15, if not, it's 0
 
 
     private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block){ // helper function
